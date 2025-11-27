@@ -9,7 +9,7 @@ Live Data Extraction: Connects to the Yahoo Finance API ("yfinance") to fetch re
 
 Risk Detection (NLP): Uses Natural Language Processing ("TextBlob") to analyze the sentiment of news headlines.
 
-Automated Reporting:Generates a risk score and a compliance recommendation (High Risk / Low Risk) based on a defined threshold.
+Automated Reporting: Generates a risk score and a compliance recommendation (High Risk / Low Risk) based on a defined threshold.
 
 Resilience: Implements error handling for missing data or API connection issues.
 
